@@ -1,0 +1,4 @@
+python-bitcoinrpc>=1.0
+mysql-connector-python>=8.0.16
+pywallet>=0.1.0
+flask==1.1.1
